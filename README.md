@@ -1,4 +1,4 @@
-# Little Music Player
+# Little Music Player (a)
 
 ![Icon](/docs/images/icon.png)
 
